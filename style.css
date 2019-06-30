@@ -5,7 +5,9 @@ body {
 	height: 100vh;
 	background: url('1.jpg') no-repeat center center / cover;
 	color: #ccc;
+	background-size: calc(100% + 50px);
 	overflow: hidden;
+	width: 100%;
 }
 
 .container {
